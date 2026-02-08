@@ -21,7 +21,7 @@ Built as a practical emergency-response prototype combining AI inference, geoloc
 - 🏥 Finds nearest hospitals based on user input  
 - 🗺️ Google Maps API integration  
 - ⚡ Real-time inference pipeline  
-- 💼 Resume-ready applied AI project
+- 💼 applied AI project(For Recruiters)
 
 ---
 
